@@ -15,6 +15,6 @@ Este projeto converte código HTML em código React de forma automatizada.
 
 1. Clone o repositório:
    ```bash
-   git clone <url-do-repositorio>
+   git clone <https://github.com/quantumsynapse/html-to-react.git>
    cd html-to-react
 
