@@ -9,6 +9,7 @@ Este projeto converte código HTML em código React de forma automatizada.
 - `src/`: Contém o código-fonte do projeto.
 - `tests/`: Contém os testes unitários.
 - `docs/`: Contém a documentação do projeto.
+- `resumo.tex`: Contém o resumo do projeto em formato LaTeX
 
 ## Como Usar
 
